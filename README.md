@@ -1,2 +1,3 @@
 # LP2
-Linguagem de Programação II
+
+Exercícios de **Linguagem de Programação II** do curso de **Análise e Desenvolvimento de Sistemas** da **FATEC Sorocaba**
