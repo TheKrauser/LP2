@@ -2,6 +2,6 @@
 
 Exercícios de **Linguagem de Programação II** do curso de **Análise e Desenvolvimento de Sistemas** da **FATEC Sorocaba**
 
-* C#
-* Visual Basic
+* Linguagem C#
+* Windows Forms (.NET Framework)
 * SQL
